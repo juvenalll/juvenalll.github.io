@@ -1,2 +1,9 @@
-body{background-color: red;}
-div{margin: auto;}
+body{
+	background-color: powderblue;
+	}
+div{
+	margin: auto;
+	}
+h1{
+	font-style: comicsans;
+}
