@@ -1,9 +1,8 @@
 body{
-	background-color: powderblue;
+	background-color: #ebf1fb;
 	}
-div{
+div h1{
 	align: center;
+	color:#907f7f;
 	}
-h1{
-	font-style: comicsans;
-}
+
