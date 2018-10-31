@@ -12,26 +12,19 @@ h1{
 	background-color:#DCEEF8;
 	text-align: center;
 }
-#navigation{
-	
-}
+
 .menu{
 	background-color:#DCEEF8;
 	overflow: hidden;
 }
-#menuName{
-	justify-content: space-evenly;
-	margin-left: auto; 
-    margin-right: auto;
-    text-align: justify;
-    text-justify: distribute-all-lines;
-}
+
 .menu a {
 	padding: 15px 15px;
 	text-align: center;
 	font-family:"Courier New", Courier, monospace;
 	color: #34363F;
 	display: table-cell;
+	text-decoration:none;
 }
 .menu a:hover{
 	background-color:#0F707B;
