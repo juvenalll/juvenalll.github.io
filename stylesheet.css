@@ -16,17 +16,18 @@ h1{
 	
 }
 .menu{
-	float: left;
+
 	background-color:#DCEEF8;
-	text-align: center;
 	overflow: hidden;
-	font-family:"Courier New", Courier, monospace;
-	text-color: #fff;
-	align:center;
+	
+	
 }
 .menu a {
 	padding: 15px 15px;
 	text-align: center;
+	font-family:"Courier New", Courier, monospace;
+	text-color: #1B2525;
+	float: left;
 }
 #list li{
 	list-style-type:none;
