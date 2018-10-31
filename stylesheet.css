@@ -13,10 +13,11 @@ h1{
 	text-align: center;
 }
 #navigation{
-	background-color:#DCEEF8;
-	text-align: center;
+	
 }
 .menu{
+	background-color:#DCEEF8;
+	text-align: center;
 	overflow: hidden;
 }
 .menu a {
