@@ -19,6 +19,7 @@ h1{
 
 	background-color:#DCEEF8;
 	overflow: hidden;
+	justify-content: space-evenly;
 	
 	
 }
@@ -26,12 +27,12 @@ h1{
 	padding: 15px 15px;
 	text-align: center;
 	font-family:"Courier New", Courier, monospace;
-	text-color: #1B2525;
+	text-color: #34363F;
 	float: left;
 	text-decoration:none;
 }
 .menu a: hover{
-	background-color:#F4FCFC;
+	background-color:#8091E8;
 	text-color:#24E1E4;
 }
 #list li{
