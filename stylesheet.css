@@ -32,8 +32,9 @@ h1{
 	text-align: center;
 	font-family:"Courier New", Courier, monospace;
 	color: #34363F;
-	float: left;
-	text-decoration:none;
+//	float: left;
+//	text-decoration:none;
+	display: table-cell;
 }
 .menu a:hover{
 	background-color:#85E3F6;
