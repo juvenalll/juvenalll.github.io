@@ -28,6 +28,11 @@ h1{
 	font-family:"Courier New", Courier, monospace;
 	text-color: #1B2525;
 	float: left;
+	text-decoration:none;
+}
+.menu a: hover{
+	background-color:#F4FCFC;
+	text-color:#24E1E4;
 }
 #list li{
 	list-style-type:none;
