@@ -1,8 +1,7 @@
 body{
 	background-color: #AFC1F3;
 	text-align: center;
-	font-family:"Courier New", Courier, monospace;
-	text-color: #fff;
+	
 	}
 h1{
 	align: center;
@@ -17,9 +16,12 @@ h1{
 	
 }
 .menu{
+	float: left;
 	background-color:#DCEEF8;
 	text-align: center;
 	overflow: hidden;
+	font-family:"Courier New", Courier, monospace;
+	text-color: #fff;
 }
 .menu a {
 	padding: 15px 15px;
