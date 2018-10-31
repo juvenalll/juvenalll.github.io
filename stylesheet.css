@@ -15,5 +15,12 @@ h1{
 	background-color:#DCEEF8;
 	text-align: center;
 }
+.menu{
+	overflow: hidden;
+}
+.menu a {
+	padding: 15px 15px;
+	text-align: center;
+}
 
 
