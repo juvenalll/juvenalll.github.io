@@ -32,12 +32,11 @@ h1{
 	text-decoration:none;
 }
 .menu a: hover{
-	background-color:#8091E8;
+	background-color:#85E3F6;
 	text-color:#24E1E4;
 }
 .link
 {
-  // color:aqua;
    text-decoration: none; 
    background-color: none;
 }
