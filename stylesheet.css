@@ -35,8 +35,11 @@ h1{
 	background-color:#8091E8;
 	text-color:#24E1E4;
 }
-#list li{
-	list-style-type:none;
+.link
+{
+  // color:aqua;
+   text-decoration: none; 
+   background-color: none;
 }
 
 
