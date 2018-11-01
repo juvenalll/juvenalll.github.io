@@ -1,5 +1,5 @@
 body{
-	background-color: #F0EAD6;
+	background-color:#FFFAFA ;
 	text-align: center;
 	
 	}
@@ -10,7 +10,7 @@ h1{
 }
 .divs{
 	width:60%;
-	background-color:#DCEEF8;	
+	background-color:#F0EAD6;	
 }
 #menuName{
 	display: flex;
@@ -19,7 +19,7 @@ h1{
 
 .menu{
 	width: 40%;
-	background-color:#D6DCF0;
+	background-color:#F0EAD6;
 	overflow: hidden;
 	display: inline-block;
 }
