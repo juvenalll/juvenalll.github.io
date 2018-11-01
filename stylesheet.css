@@ -29,15 +29,14 @@ h1{
 	text-align: center;
 	font-family:"Courier New", Courier, monospace;
 	color: #34363F;
-	display: table-cell;
+	display: inline;
 	text-decoration:none;
 }
 .menu a:hover{
 	background-color:#0F707B;
 	color:#EEF8F9;
 }
-.link
-{
+.link{
    text-decoration: none; 
    background-color: none;
 }
