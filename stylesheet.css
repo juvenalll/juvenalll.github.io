@@ -9,9 +9,8 @@ h1{
 	font-family:"Courier New", Courier, monospace;
 }
 .divs{
-	background-color:#DCEEF8;
-	text-align: center;
 	width:60%;
+	background-color:#DCEEF8;	
 }
 #menuName{
 	display: flex;
