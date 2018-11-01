@@ -11,6 +11,7 @@ h1{
 .divs{
 	background-color:#DCEEF8;
 	text-align: center;
+	width:60%;
 }
 #menuName{
 	display: flex;
