@@ -1,5 +1,5 @@
 body{
-	background-color: #AFC1F3;
+	background-color: #F0EAD6;
 	text-align: center;
 	
 	}
@@ -19,7 +19,7 @@ h1{
 
 .menu{
 	width: 40%;
-	background-color:#DCEEF8;
+	background-color:#D6DCF0;
 	overflow: hidden;
 	display: inline-block;
 }
@@ -32,7 +32,7 @@ h1{
 	text-decoration:none;
 }
 .menu a:hover{
-	background-color:#0F707B;
+	background-color:#6170A4;
 	color:#EEF8F9;
 }
 .link{
