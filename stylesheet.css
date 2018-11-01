@@ -12,8 +12,13 @@ h1{
 	background-color:#DCEEF8;
 	text-align: center;
 }
+#menuName{
+	display: flex;
+    justify-content: space-between;
+}
 
 .menu{
+	width: 70%;
 	background-color:#DCEEF8;
 	overflow: hidden;
 }
