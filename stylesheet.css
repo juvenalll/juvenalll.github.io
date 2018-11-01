@@ -18,7 +18,6 @@ h1{
 }
 
 .menu{
-	margin:auto;
 	width: 40%;
 	background-color:#DCEEF8;
 	overflow: hidden;
@@ -29,7 +28,7 @@ h1{
 	text-align: center;
 	font-family:"Courier New", Courier, monospace;
 	color: #34363F;
-	display: inline;
+	display: table-cell;
 	text-decoration:none;
 }
 .menu a:hover{
