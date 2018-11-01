@@ -6,7 +6,7 @@ body{
 h1{
 	align: center;
 	color: #4D3C3C;
-	font-family:"Courier New", Courier, monospace;
+	font-family:Garamond;
 }
 .divs{
 	width:60%;
@@ -27,7 +27,7 @@ h1{
 .menu a {
 	padding: 15px 15px;
 	text-align: center;
-	font-family:"Courier New", Courier, monospace;
+	font-family:Garamond;
 	color: #34363F;
 	text-decoration:none;
 }
