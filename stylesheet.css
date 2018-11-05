@@ -9,10 +9,17 @@ h1{
 	font-family:Garamond;
 }
 .divs{
+	text-align: center;
+	height: 50vh;
 	margin:0 auto;
-	width:60%;
+	width:100vh;
 	background-color:#F8F8F7;	
 }
+.divs h1{
+	
+}
+
+/* below is all related to navigation bar*/
 .nav{
 	width:auto;
 	margin: 0 auto;
@@ -29,7 +36,7 @@ h1{
     }
 
 .nav li {
-	padding: 8px 15px;
+	padding: 8px 10px;
       font-family: Garamond;
       font-size: 2em;
 	  display: inline-block;
