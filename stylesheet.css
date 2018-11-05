@@ -1,7 +1,7 @@
 body{
-	background-color:#FFFAFA ;
-	text-align: center;
-	
+	background-color:#F8F8F7 ;
+	margin:0;
+	padding:0;
 	}
 h1{
 	align: center;
@@ -9,35 +9,43 @@ h1{
 	font-family:Garamond;
 }
 .divs{
+	margin:0 auto;
 	width:60%;
-	background-color:#F0EAD6;	
+	background-color:#F8F8F7;	
 }
-#menuName{
-	display: flex;
-    justify-content: space-between;
+.nav{
+	width:auto;
+	margin: 0 auto;
+	text-align:center;
 }
-
-.menu{
-	width: 40%;
-	background-color:#F0EAD6;
-	overflow: hidden;
+.nav ul {
 	display: inline-block;
-}
+      list-style: none;
+      background-color: #F8F8F7;
+      text-align: center;
+      padding: 0;
+      margin: 0;
+	  overflow: auto;
+    }
 
-.menu a {
-	padding: 15px 15px;
-	text-align: center;
-	font-family:Garamond;
-	color: #34363F;
-	text-decoration:none;
-}
-.menu a:hover{
-	background-color:#6170A4;
-	color:#EEF8F9;
-}
-.link{
-   text-decoration: none; 
-   background-color: none;
-}
-
-
+.nav li {
+	padding: 8px 15px;
+      font-family: Garamond;
+      font-size: 2em;
+	  display: inline-block;
+	  float: left;
+    }
+.nav a {
+      text-decoration: none;
+      color: #4D3C3C;
+	  transition: .3s background-color;
+    }
+.nav a:hover {
+      background-color: #1E7B8E;
+	  color: white;
+    }
+	
+  .nav  a.active {
+      background-color: #fff;
+      color: #444;
+    }
