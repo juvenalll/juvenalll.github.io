@@ -13,8 +13,8 @@ h1{
 	font-family: Arial;
 	font-size: 1em;
 	text-align: center;
-	height: 70vh;
-	width: 120vh;
+	height: 60vh;
+	width: 70%;
 	margin:0 auto;
 	background-color:#F8F8F7;	
 }
@@ -81,6 +81,10 @@ margin:auto;
 max-width: 38%;
 max-height: 43vh;
 padding: 0.5em;
+}
+#linked a{
+	text-decoration:none;
+	color: black;
 }
 .figures{
 	display: inline-table;
