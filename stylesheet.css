@@ -7,7 +7,7 @@ h1{
 	align: center;
 	color: #4D3C3C;
 	font-family:Arial;
-	font-size: 1.7em;
+	font-size: 2.5em;
 }
 .divs{
 	font-family: Arial;
@@ -66,24 +66,24 @@ h1{
 }
 #phone{
 margin:auto;
-max-width: 30%;
-max-height: 35vh;
+max-width: 38%;
+max-height: 43vh;
 padding: 0.5em;
 }
 #email{
 margin:auto;
-max-width: 30%;
-max-height: 35vh;
+max-width: 38%;
+max-height: 43vh;
 padding: 0.5em;
 }	
-#linkedin{
+#linked{
 margin:auto;
-max-width: 30%;
-max-height: 35vh;
+max-width: 38%;
+max-height: 43vh;
 padding: 0.5em;
 }
 .figures{
-	display: table;
+	display: inline-table;
 }
 .figures figcaption{
 	display: table-caption;
