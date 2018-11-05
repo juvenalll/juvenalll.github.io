@@ -59,3 +59,21 @@ h1{
       background-color: #fff;
       color: #444;
     }
+	
+	/* end of nav */
+#contact{
+	display:block;
+	float: left;
+}
+#phone{
+
+margin:auto;
+max-width: 20%;
+max-height: 30vh;
+}
+#email{
+
+margin:auto;
+max-width: 20%;
+max-height: 30vh;
+}	
