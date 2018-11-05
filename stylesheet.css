@@ -63,17 +63,26 @@ h1{
 	/* end of nav */
 #contact{
 	display:block;
-	float: left;
 }
 #phone{
 
 margin:auto;
-max-width: 20%;
-max-height: 30vh;
+max-width: 30%;
+max-height: 35vh;
+padding: 0.5em;
 }
 #email{
 
 margin:auto;
-max-width: 20%;
-max-height: 30vh;
+max-width: 30%;
+max-height: 35vh;
+padding: 0.5em;
 }	
+.figures{
+	display: table;
+}
+.figures figcaption{
+	display: table-caption;
+  caption-side: bottom;
+
+}
