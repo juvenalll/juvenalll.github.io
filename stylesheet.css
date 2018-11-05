@@ -6,13 +6,16 @@ body{
 h1{
 	align: center;
 	color: #4D3C3C;
-	font-family:Garamond;
+	font-family:Arial;
+	font-size: 1.7em;
 }
 .divs{
+	font-family: Arial;
+	font-size: 1em;
 	text-align: center;
 	height: 50vh;
+	width: 120vh;
 	margin:0 auto;
-	width:100vh;
 	background-color:#F8F8F7;	
 }
 .divs h1{
@@ -37,7 +40,7 @@ h1{
 
 .nav li {
 	padding: 8px 10px;
-      font-family: Garamond;
+      font-family: Arial;
       font-size: 2em;
 	  display: inline-block;
 	  float: left;
