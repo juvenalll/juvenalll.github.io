@@ -13,7 +13,7 @@ h1{
 	font-family: Arial;
 	font-size: 1em;
 	text-align: center;
-	height: 50vh;
+	height: 70vh;
 	width: 120vh;
 	margin:0 auto;
 	background-color:#F8F8F7;	
@@ -65,19 +65,23 @@ h1{
 	display:block;
 }
 #phone{
-
 margin:auto;
 max-width: 30%;
 max-height: 35vh;
 padding: 0.5em;
 }
 #email{
-
 margin:auto;
 max-width: 30%;
 max-height: 35vh;
 padding: 0.5em;
 }	
+#linkedin{
+margin:auto;
+max-width: 30%;
+max-height: 35vh;
+padding: 0.5em;
+}
 .figures{
 	display: table;
 }
