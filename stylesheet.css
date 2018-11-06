@@ -1,25 +1,25 @@
 body{
-	background-color:#F8F8F7 ;
+	background-color:#EFFFFF ;
 	margin:0;
 	padding:0;
 	}
 h1{
 	align: center;
-	color: #4D3C3C;
+	color: #32D2D2;
 	font-family:Arial;
 	font-size: 2.5em;
+}
+h2{
+	color:#32D2D2;
 }
 .divs{
 	font-family: Arial;
 	font-size: 1em;
 	text-align: center;
-	height: 60vh;
+	height: 80vh;
 	width: 70%;
 	margin:0 auto;
-	background-color:#F8F8F7;	
-}
-.divs h1{
-	
+	background-color:#EFFFFF;	
 }
 
 /* below is all related to navigation bar*/
@@ -31,7 +31,7 @@ h1{
 .nav ul {
 	display: inline-block;
       list-style: none;
-      background-color: #F8F8F7;
+      background-color: #EFFFFF;
       text-align: center;
       padding: 0;
       margin: 0;
@@ -47,11 +47,11 @@ h1{
     }
 .nav a {
       text-decoration: none;
-      color: #4D3C3C;
+      color: #32D2D2;
 	  transition: .3s background-color;
     }
 .nav a:hover {
-      background-color: #1E7B8E;
+      background-color: #56E7E7;
 	  color: white;
     }
 	
@@ -61,6 +61,7 @@ h1{
     }
 	
 	/* end of nav */
+	/*contact section*/
 #contact{
 	display:block;
 }
@@ -93,4 +94,11 @@ padding: 0.5em;
 	display: table-caption;
   caption-side: bottom;
 
+}
+/* end of contact section */
+/* formatting text section */
+#text{
+	margin: auto;
+	width: 80%;
+	
 }
