@@ -9,9 +9,7 @@ body{
 	font-family: Futura,Trebuchet MS,Arial,sans-serif;;
 	font-size: 2.5em;
 }
-h4{
-	color:rgb(104, 112, 112);
-}
+
 .divs{
 	font-family: Futura,Trebuchet MS,Arial,sans-serif;
 	font-size: 1em;
@@ -31,7 +29,7 @@ h4{
 .nav ul {
 	display: inline-block;
       list-style: none;
-      background-color: rgb(249, 253, 253);
+      background-color: rgb(255, 255, 255);
       text-align: center;
       padding: 0;
       margin: 0;
@@ -51,7 +49,7 @@ h4{
 	  transition: .3s background-color;
     }
 .nav a:hover {
-      background-color: rgb(79, 85, 85);
+      background-color: rgb(163, 173, 173);
 	  color: white;
     }
 	
@@ -60,45 +58,4 @@ h4{
       color: #444;
     }
 	
-	/* end of nav */
-	/*contact section*/
-#contact{
-	display:block;
-}
-#phone{
-margin:auto;
-max-width: 38%;
-max-height: 43vh;
-padding: 0.5em;
-}
-#email{
-margin:auto;
-max-width: 38%;
-max-height: 43vh;
-padding: 0.5em;
-}	
-#linked{
-margin:auto;
-max-width: 38%;
-max-height: 43vh;
-padding: 0.5em;
-}
-#linked a{
-	text-decoration:none;
-	color: black;
-}
-.figures{
-	display: inline-table;
-}
-.figures figcaption{
-	display: table-caption;
-  caption-side: bottom;
 
-}
-/* end of contact section */
-/* formatting text section */
-#text{
-	margin: auto;
-	width: 80%;
-	
-}
