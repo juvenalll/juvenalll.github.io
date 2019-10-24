@@ -1,9 +1,9 @@
 body{
-	background-color:rgb(251, 255, 255) ;
+	background-color:rgb(255, 255, 255) ;
 	margin:0;
 	padding:0;
 	}
-h3{
+.divs h3{
 	align: center;
 	color: rgb(248, 15, 15);
 	font-family: Futura,Trebuchet MS,Arial,sans-serif;;
@@ -19,7 +19,7 @@ h4{
 	height: 80vh;
 	width: 70%;
 	margin:0 auto;
-	background-color:rgb(255, 255, 255);	
+
 }
 
 /* below is all related to navigation bar*/
