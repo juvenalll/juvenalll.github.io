@@ -10,7 +10,7 @@ h1{
 	font-size: 2.5em;
 }
 h2{
-	color:rgb(143, 161, 161);
+	color:rgb(104, 112, 112);
 }
 .divs{
 	font-family: Arial;
@@ -19,7 +19,7 @@ h2{
 	height: 80vh;
 	width: 70%;
 	margin:0 auto;
-	background-color:#EFFFFF;	
+	background-color:rgb(244, 248, 248);	
 }
 
 /* below is all related to navigation bar*/
@@ -31,7 +31,7 @@ h2{
 .nav ul {
 	display: inline-block;
       list-style: none;
-      background-color: #EFFFFF;
+      background-color: rgb(249, 253, 253);
       text-align: center;
       padding: 0;
       margin: 0;
@@ -47,7 +47,7 @@ h2{
     }
 .nav a {
       text-decoration: none;
-      color: rgb(152, 165, 165);
+      color: rgb(104, 112, 112);
 	  transition: .3s background-color;
     }
 .nav a:hover {
@@ -56,7 +56,7 @@ h2{
     }
 	
   .nav  a.active {
-      background-color: #fff;
+      background-color: rgb(255, 255, 255);
       color: #444;
     }
 	
